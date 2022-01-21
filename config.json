@@ -22,7 +22,7 @@
     "Model": "list(sma-SBn_n-1AV-40|sungrow-sg3kd|sungrow-sg3ks|sungrow-sg5kd|sungrow-sg8kd|sungrow-sg10kt|sungrow-sg10rt|sungrow-sh5k|sungrow-sh10rt)",
     "Scan_interval" : "int(10,600)",
     "Scan_timeout": "int(3,60)",
-    "Log_level": "list(DEBUG|INFO|WARNING)"
+    "Log_level": "list(DEBUG|INFO|WARNING)",
     "Mqtt_host": "str",
     "Mqtt_port": "int",
     "Mqtt_user": "str",
